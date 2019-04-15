@@ -162,3 +162,4 @@ function Get-CURRENCY() {
 
 # Export the function, which can generate a new instance of the class
 Export-ModuleMember -Function Get-NewMyClass
+ 
